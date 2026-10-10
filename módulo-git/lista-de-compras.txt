@@ -1,11 +1,9 @@
 Preciso comprar:
 
-goiaba
-maca
-banana
-melacia
-morango
-laranja 
-tomate
+
+MACA
+MELANCIA
+MORANGO
+
 
 essa é minha lista de compras
