@@ -3,6 +3,7 @@ Preciso comprar:
 goiaba
 maca
 banana
+uva
 melacia
 morango
 laranja 
